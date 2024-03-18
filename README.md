@@ -1,4 +1,4 @@
-# Hi, My name is Khant Loon Thu [<img src="https://raw.githubusercontent.com/FairyLychee/FairyLychee/main/bird.webp" width="30" height="30" />](https://github.com/FairyLychee/FairyLychee/blob/main/bird.webp) !👋
+# Hi, My name is Khant Loon Thu [<img src="https://raw.githubusercontent.com/KhantLoonThu/KhantLoonThu/main/bird.webp" width="30" height="30" />](https://github.com/KhantLoonThu/FairyLychee/blob/main/bird.webp) !👋
 
 ## 👤 About me
 I am a junior frontend developer from Myanmar, and I enjoy making dynamic websites using React and Vue.
@@ -34,6 +34,6 @@ I am a junior frontend developer from Myanmar, and I enjoy making dynamic websit
 * ✉️ You can contact me at [khantloonthu66@gmail.com](mailto:khantloonthu66@gmail.com)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairyLychee&layout=compact&theme=radical&height=150" alt="Top Langs" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=FairyLychee&show_icons=true&theme=radical&height=150" alt="Anurag's GitHub stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhantLoonThu&layout=compact&theme=radical&height=150" alt="Top Langs" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhantLoonThu&show_icons=true&theme=radical&height=150" alt="Anurag's GitHub stats" height="200">
 </p>
