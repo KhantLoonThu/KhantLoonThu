@@ -1,4 +1,4 @@
-# Hi, My name is Khant Loon Thu [<img src="https://raw.githubusercontent.com/KhantLoonThu/KhantLoonThu/main/bird.webp" width="30" height="30" />](https://github.com/KhantLoonThu/KhantLoonThu/blob/main/bird.webp) !👋
+# Hi, My name is Khant Loon Thu <a href="https://github.com/KhantLoonThu/KhantLoonThu"><img src="https://raw.githubusercontent.com/KhantLoonThu/KhantLoonThu/main/bird.webp" width="30" style="vertical-align: middle;" /></a> !
 
 ## 👤 About me
 A 22yo Burmese developer based in Thailand. Front-end specialist (React/Next.js) with full-stack capabilities in Laravel.
