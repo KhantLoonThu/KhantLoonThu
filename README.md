@@ -1,4 +1,4 @@
-# Hi, My name is Khant Loon Thu [<img src="https://raw.githubusercontent.com/KhantLoonThu/KhantLoonThu/main/bird.webp" width="30" height="30" />](https://github.com/KhantLoonThu/FairyLychee/blob/main/bird.webp) !👋
+# Hi, My name is Khant Loon Thu [<img src="https://raw.githubusercontent.com/KhantLoonThu/KhantLoonThu/main/bird.webp" width="30" height="30" />](https://github.com/KhantLoonThu/KhantLoonThu/blob/main/bird.webp) !👋
 
 ## 👤 About me
 A 22yo Burmese developer based in Thailand. Front-end specialist (React/Next.js) with full-stack capabilities in Laravel.
